@@ -5,8 +5,7 @@ target 'WoWonderiOS' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
   
-  # Pods for News_Feed
-  
+  # Pods for News_Fee
   pod 'Alamofire','~> 4.2'
   pod 'AlamofireImage'
   pod 'Kingfisher'
