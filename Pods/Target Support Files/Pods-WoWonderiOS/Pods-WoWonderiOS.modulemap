@@ -1,0 +1,6 @@
+framework module Pods_WoWonderiOS {
+  umbrella header "Pods-WoWonderiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
